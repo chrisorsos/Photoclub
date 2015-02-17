@@ -2,5 +2,6 @@
       <li role="presentation"><a href="?q=kezdolap">Kezdőlap</a></li>
       <li role="presentation"><a href="?q=bemutatkozas">Bemutatkozás</a></li>
       <li role="presentation"><a href="?q=kepgaleria">Képgaléria</a></li>
+      <li role="presentation"><a href="?q=letoltesek">Letöltések</a></li>
       <li role="presentation"><a href="?q=kapcsolat">Kapcsolat</a></li>
     </ul>
