@@ -1,5 +1,5 @@
 <div id="footer">
-      Készítette: X Y &copy; 2014
+      Készítette: Orsós Krisztián &copy; 2015
     </div>
 
   </body>

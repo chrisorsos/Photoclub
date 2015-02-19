@@ -23,6 +23,6 @@
   <body>
 
     <div id="header">
-      <h1 id="sitename">PhotoClub</h1>
+      
       <?php include('navigation.php'); ?>
     </div>
