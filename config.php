@@ -3,7 +3,7 @@
 $DB_HOST = 'localhost';
 $DB_USER = 'root';
 $DB_PASS = '';
-$DB_NAME = 'phpportal';
+$DB_NAME = 'photoclub';
 
 
-$HOST = 'http://localhost/phpportal';
+$HOST = 'http://localhost/photoclub';

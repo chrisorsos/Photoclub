@@ -7,23 +7,27 @@ body {
   margin: 0;
   background: url(../../Images/hatter.jpg) ;
 }
+ 
+.nav-pills>li>a {
+  border-radius: 222px;
+}
 
 #header {
   background: url(../../Images/bannerke.jpg) ;
-  background-repeat: no-repeat;
-  padding: 200px 20px 0px 0px;
-  max-width: 960px;
-margin: 0 auto;
+    background-repeat: no-repeat;
+    padding: 200px 20px 0px 0px;
+    max-width: 960px;
+    margin: 0 auto;
 }
 #header h1#sitename {
-  margin:  30px 0 30px 0;
+  margin: 30px 0 30px 0;
 }
 
 #content {
   padding: 10px 20px;
   background-color: #ede8be;
   max-width: 960px;
-margin: 0 auto;
+  margin: 0 auto;
 }
 
 .news {
@@ -37,6 +41,7 @@ margin: 0 auto;
 }
 .news .text {
   margin: 5px 0;
+  
 }
 .news .date {
   text-align: right;
@@ -48,23 +53,69 @@ margin: 0 auto;
   color: white;
   padding: 10px 20px;
   max-width: 960px;
-margin: 0 auto;
+    margin: 0 auto;
 }
 
 #header #navigation a {
     color: white;
     background: black;
+    
 }
 #header #navigation a:hover {
     color: black;
     background: #dddddd;
 }
-.nav-pills>li>a {
-border-radius: 15px;
-}
-.nav>li>a {
-position: relative;
-display: block;
-padding: 6px 23px;
+
+/*
+	news modul
+*/
+
+.shortText {
+  width: 450px;
 }
 
+.leadText {
+  width: 450px;
+  height: 50px;
+}
+
+.longText {
+  width: 450px;
+  height: 200px;
+}
+
+.tid {
+  width: 30px;
+  height: 30px;
+  vertical-align: middle;
+}
+
+.tag {
+  width: 100px;
+  height: 30px;
+  vertical-align: middle;
+}
+
+.title {
+  width: 500px;
+  height: 30px;
+  vertical-align: middle;
+}
+
+.left {
+    float: left;
+    margin-right: 5px;
+}
+
+.bejegyzes {
+    margin-top: 10px;
+    background: #ddd8ae;
+    padding: 10px;
+}
+.bejegyzes .nev {
+    font-weight: bold;
+}
+.bejegyzes .datum {
+    font-style: italic;
+    font-size: 0.8em;
+}

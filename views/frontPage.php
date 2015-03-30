@@ -1,6 +1,6 @@
 <?php include('includes/header.php'); ?>
 
-<div id="content">
+<div id="content" class="content-front">
   <h2>Kezdőlap</h2>
   <?php
   foreach ($news as $item) {

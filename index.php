@@ -22,9 +22,17 @@ switch ($page) {
     include('controllers/introductionPage.php');
     include('views/introductionPage.php');
     break;
+  case 'letoltesek':
+    include('controllers/letoltesekPage.php');
+    include('views/letoltesekPage.php');
+    break;
   case 'kapcsolat':
     include('controllers/contactPage.php');
     include('views/contactPage.php');
+    break;    
+case 'forum':
+    include('controllers/forumPage.php');
+    include('views/forumPage.php');
     break;    
   default:
     $pageTitle = "Oldal nem található";
