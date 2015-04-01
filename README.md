@@ -3,7 +3,7 @@
 
 <h2>Leírás</h2>
 
-<p>A profejktem egy torrentes alapú Photo Club,amire képeket lehet feltölteni. </p>
+<p>A projektem egy torrentes alapú Photo Club,amire képeket lehet feltölteni. </p>
 
 <p> A szoftver dokumentációja megtalálható a documents mappában. </p>
 
